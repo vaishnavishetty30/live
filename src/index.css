@@ -1,0 +1,57 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background: linear-gradient(120deg,#2980b9,#8e44ad);
+    height:100vh;
+    overflow:hidden;
+
+}
+
+code{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    padding:10px;
+    background-color: aqua;
+    height:25px;
+    width:150px;
+    display:inline-block;
+    margin-bottom: 20px;
+
+}
+
+.App{
+    text-align: center;
+    border-radius: 10px;
+}
+
+.btn{
+    background-color:rgb(44, 97, 97);
+    padding: 10px 20px;
+    cursor: pointer;
+    border:thick;
+
+}
+.button1{
+    background-color:yellow;
+    padding: 10px 20px;
+    cursor: pointer;
+    border:none;
+
+}
+.btn2{
+    background-color:yellow;
+    padding: 10px 20px;
+    cursor: pointer;
+    border:none;
+
+}
+.button2{
+    background-color:yellow;
+    padding: 10px 20px;
+    cursor: pointer;
+    border:none;
+
+}
